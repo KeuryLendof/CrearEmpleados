@@ -1,0 +1,13 @@
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.exe
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.deps.json
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.runtimeconfig.json
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.runtimeconfig.dev.json
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.dll
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\bin\Debug\netcoreapp3.1\Creacion de empleados.pdb
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.csprojAssemblyReference.cache
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.AssemblyInfoInputs.cache
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.AssemblyInfo.cs
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.csproj.CoreCompileInputs.cache
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.dll
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.pdb
+C:\Users\lendo\source\repos\Creacion de empleados\Creacion de empleados\obj\Debug\netcoreapp3.1\Creacion de empleados.genruntimeconfig.cache
