@@ -1,1 +1,1 @@
-# Con este algoritmo podras clasifical empleados como administrativos, operativos o gerenciales.
+# Con este algoritmo podras clasificar empleados como administrativos, operativos o gerenciales.
